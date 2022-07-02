@@ -1,0 +1,3 @@
+﻿  Semestrovia_3.cpp
+C:\Users\ISAAC\source\repos\Semestrovia_3\Semestrovia_3\Semestrovia_3.cpp(62,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Semestrovia_3.vcxproj -> C:\Users\ISAAC\source\repos\Semestrovia_3\Debug\Semestrovia_3.exe

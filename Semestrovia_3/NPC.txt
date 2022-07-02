@@ -1,0 +1,10 @@
+Kayden$Armorer$1$Armor
+Nick$Butcher$2$Meat
+Immanuel$Cartographer$3$Map
+George$Cleric$4$Potion
+Fitzgerald$Farmer$5$Bread
+Yehuda$Fisherman$6$Fish
+Valentino$Fletcher$7$Bow
+Quanah$Librarian$8$Spellbook
+Tucker$Mason$9$Gem
+Austin$Weaponsmith$10$Sword
